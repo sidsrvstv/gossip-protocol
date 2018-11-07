@@ -2,15 +2,6 @@
  GOSSIP SIMULATOR 
 -------------------------------------------------------
 
--> Team members
-
-  Siddharth Srivastava (UF ID 63166628)
-  Nanda Kishore Sunki (UF ID 62396049)
-
-#Write about learnings
-
-The project folder contains 2 folders:
-#Write about folder structure.
 
 RUNNING THE PROGRAM
 --------------------
