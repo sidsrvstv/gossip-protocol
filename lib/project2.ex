@@ -1,4 +1,4 @@
-defmodule Project2 do
+defmodule GossipSimulator do
   @moduledoc """
   Documentation for Project2.
   """
@@ -24,7 +24,7 @@ defmodule Project2 do
     end
 end
 
-Project2.main
+GossipSimulator.main
 
 
 
