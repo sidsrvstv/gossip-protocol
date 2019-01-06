@@ -27,5 +27,6 @@ e.g. mix run lib/gossip_simulator.ex 100 full push-sum
 The above command would run push-sum algorithm for 100 nodes connected in full topology.
 
 algorithm: [push-sum], [gossip]
+
 topology: [line], [full], [3D], [rand2D], [torus], [impline]
 
